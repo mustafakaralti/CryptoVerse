@@ -11,4 +11,5 @@ Bu proje, Html ve Css kullanılarak geliştirilen responsive bir yazılım sites
 .Kolay Kullanım: Açık ve anlaşılır yapısıyla düzenlemeye uygun.
 
 # Ekran Görüntüsü
-![cryptoverse](https://github.com/user-attachments/assets/b9b78ca0-5470-4b2e-91eb-b6620693109d)
+
+![cryptoverse](https://github.com/user-attachments/assets/dbc1e7b5-9a89-4136-8f32-daabb69ca918)
