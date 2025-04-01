@@ -12,4 +12,4 @@ Bu proje, Html ve Css kullanılarak geliştirilen responsive bir yazılım sites
 
 # Ekran Görüntüsü
 
-![cryptoverse](https://github.com/user-attachments/assets/dbc1e7b5-9a89-4136-8f32-daabb69ca918)
+
