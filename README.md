@@ -1,6 +1,6 @@
 # CryptoVerse
 
-Bu proje, Html ve Css kullanılarak geliştirilen responsive bir yazılım sitesi tasarımını içermektedir.
+Bu proje, Html, Css ve Bootsrap kullanılarak geliştirilen responsive bir yazılım sitesi tasarımını içermektedir.
 
 # Proje Özellikleri
 
